@@ -1,0 +1,28 @@
+.navbar-logo{
+
+height: 40px;
+width: 40px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+
+}
+
+
+.bg-nav{
+
+	background: #FDFF8E;
+
+}
+.slide-img{ height: 400px; 
+	object-fit: cover;
+
+
+  }
+
+.card-title{ font-weight: bolder;}
+
+.bd-placeholder-img{ object-fit: cover;
+
+}
