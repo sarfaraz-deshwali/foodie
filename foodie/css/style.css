@@ -1,3 +1,6 @@
+  
+  /*intex.php*/
+
 .navbar-logo{
 
 height: 40px;
@@ -6,18 +9,15 @@ left: 0px;
 top: 0px;
 border-radius: 0px;
 
-
 }
 
 
-.bg-nav{
+/*.bg-nav{background: #FDFF8E;}*/
 
-	background: #FDFF8E;
 
-}
 .slide-img{ height: 400px; 
 	object-fit: cover;
-
+    
 
   }
 
@@ -25,4 +25,34 @@ border-radius: 0px;
 
 .bd-placeholder-img{ object-fit: cover;
 
+}  
+
+
+.ok{  font-weight: bolder;  } 
+
+
+.timeline {
+
+  list-style: none;
 }
+
+  
+  .featurette-heading{
+
+  	font-weight: bolder;
+  }
+
+
+.section-heading{ font-weight: bolder;} 
+
+
+
+
+ /*intex.php*/
+
+
+
+
+/* contact.php*/
+/*.form-gradient{ background-image: url(https://images.hdqwalls.com/download/mountain-cave-5k-3l-1366x768.jpg); } */
+/* contact.php*/
