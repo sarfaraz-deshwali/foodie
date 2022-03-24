@@ -94,7 +94,7 @@
 </div>
 
 <!-- slider -->
-
+<hr>
 
 <!-- h1 -->
 <div class=" text-center mx-auto pt-5"> <h1 class="fw-bolder"> Our Product.</h1></div>
@@ -115,7 +115,8 @@
         <div class="card-body">
           <h5 class="card-title">Fast Food</h5>
           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+          <button class="button" href=""> Explore
+</button>
         </div>
       </div>
     </div>
@@ -128,7 +129,8 @@
       <div class="card-body">
         <h5 class="card-title">Coffee</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+      <button class="button" href="" >  Explore
+</button>
       </div>
     </div>
   </div>
@@ -140,7 +142,8 @@
     <div class="card-body">
       <h5 class="card-title">Cold Drink</h5>
       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a href="#" class="btn btn-primary">Go somewhere</a>
+     <button class="button" href="" >  Explore
+</button>
     </div>
   </div>
 </div>
@@ -164,8 +167,12 @@
         <p class="lead mb-4">Contact forms can be tricky, so we built
          <strong class="text-dark">Start Bootstrap Forms. </strong>In minutes, you can set up your form and start getting form submissions straight to your inbox.</p>
 
-         <a class="btn btn-primary btn-lg fw-500 shadow mx-2">Try it free</a>
-         <a  class="btn btn-primary-soft text-primary btn-lg fw-500 mx-2">See how it works</a>
+        <button class="cta pb-2">
+  <span class="px-2 " href="">Try this.</span>
+  <svg viewBox="0 0 13 10" height="10px" width="15px">
+    <path d="M1,5 L11,5"></path>
+    <polyline points="8 1 12 5 8 9"></polyline>
+  </svg>
        </div>
      </div>
    </div>                                                                                                
