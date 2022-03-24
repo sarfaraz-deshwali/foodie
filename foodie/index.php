@@ -19,7 +19,7 @@
 
   <title>Foodie.com</title>
 </head>
-<body>
+<body class="">
 
 
   <!-- nav -->
@@ -104,9 +104,9 @@
 <!-- card -->
 
 <div class="album py-5">
-  <div class="container">
+  <div class="container d-flex">
 
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 px-4 m-auto">
 
 
      <div class="col">
@@ -156,7 +156,7 @@
 <div class=" text-center  w-50 py-5 m-auto">
   <div  class="container">
     <div  class="justify-content-center mb-lg-5">
-      <div class="col-lg-9 mb-5 mb-lg-0 text-center">
+      <div class="col-lg-9 mb-5 mb-lg-0 text-center m-auto">
         <div  class="badge bg-primary-soft text-primary fw-500 mb-2">Now available!
         </div>
         <h1  class="display-4 fw-600 fw-bolder mb-3">DESI TADKA</h1>
@@ -312,7 +312,6 @@
     </ul>
   </div>
 </section></div>
-
 
 
 

@@ -56,3 +56,9 @@ border-radius: 0px;
 /* contact.php*/
 /*.form-gradient{ background-image: url(https://images.hdqwalls.com/download/mountain-cave-5k-3l-1366x768.jpg); } */
 /* contact.php*/
+
+body{
+
+	overflow-x: hidden;
+
+}
