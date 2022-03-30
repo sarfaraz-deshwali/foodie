@@ -24,7 +24,7 @@
 
   <!-- nav -->
 
-  <nav class="navbar navbar-expand-lg  sticky-top bg-info navbar-light bg-nav" aria-label="Tenth navbar example">
+  <nav class="navbar navbar-expand-lg  sticky-top  navbar-light bg-nav" aria-label="Tenth navbar example" style="background-color: lightgray">
     <div class="container-fluid">
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample08" aria-controls="navbarsExample08" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -54,7 +54,7 @@
 
 <!-- slider -->
 
-<div id="carouselExampleDark" class="carousel carousel-dark slide  py-2"  data-bs-ride="carousel">
+<div id="carouselExampleDark" class="carousel carousel-dark slide  "  data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -97,7 +97,7 @@
 <hr>
 
 <!-- h1 -->
-<div class=" text-center mx-auto pt-5"> <h1 class="fw-bolder"> Our Product.</h1></div>
+<div class=" text-center mx-auto pt-3"> <h1 class="fw-bolder"> Our Product.</h1></div>
 <!-- h1 -->
 
 
